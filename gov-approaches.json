@@ -3,133 +3,108 @@
       "id": "academia",
       "shortname": "Academia",
       "longname": "",
-      "description": "DGC Member values engaging with academic 
-institutions at the student or research level."
+      "description": "DGC Member values engaging with academic institutions at the student or research level."
     },
     {
       "id": "community",
       "shortname": "Community",
       "longname": "",
-      "description": "DGC Member values spreading, growing or diversifying 
-the Maker community."
+      "description": "DGC Member values spreading, growing or diversifying Dijets community and engagement with general public."
     },
     {
       "id": "compliance",
       "shortname": "Compliance",
       "longname": "",
-      "description": "DGC Member values compliance and regulation where 
-appropriate for Dijets."
+      "description": "DGC Member values compliance and regulation where appropriate and applicable for Dijets."
     },
     {
       "id": "data-driven",
       "shortname": "Data-Driven",
       "longname": "",
-      "description": "DGC Member values data availability and data-driven 
-decision-making."
+      "description": "DGC Member values data availability and decision-making depending upon data at disposal."
     },
     {
-      "id": "decentralization",
-      "shortname": "Decentralization",
+      "id": "decentralisation",
+      "shortname": "Decentralisation",
       "longname": "",
-      "description": "DGC Member values decentralization of Dijets, its 
-Ecosystem and its Domains."
+      "description": "DGC Member values decentralisation of Dijets, its Ecosystem and its Domains."
     },
     {
       "id": "growth",
       "shortname": "Growth",
       "longname": "",
-      "description": "DGC Member values growth of Dijets and adoption of 
-the Ecosystem."
+      "description": "DGC Member values growth of Dijets and the adoption of its Ecosystem across a range of verticals."
     },
     {
       "id": "ideation",
       "shortname": "Ideation",
       "longname": "",
-      "description": "DGC Member values innovation and creativity in 
-problem-solving and direction."
+      "description": "DGC Member values innovation and creativity in problem-solving and direction."
     },
     {
       "id": "multi-chain",
       "shortname": "Multi-chain",
       "longname": "",
-      "description": "DGC Member values the expansion of the Ecosystem 
-onto other blockchains."
+      "description": "DGC Member values the expansion and/or strategic partnerships of the Ecosystem onto/with other blockchains."
     },
     {
       "id": "pragmatism",
       "shortname": "Pragmatism",
       "longname": "",
-      "description": "DGC Member values pragmatic responses to problems 
-facing Dijets."
+      "description": "DGC Member values pragmatism and pragmatic solutions as responses to problems Dijets may face."
     },
     {
       "id": "responsibility",
       "shortname": "Responsibility",
       "longname": "",
-      "description": "DGC Member values responsibility to all stakeholders 
-that interact with Dijets and the Ecosystem."
+      "description": "DGC Member values responsibility to DJTX holders and users that interact with Dijets and the Ecosystem."
     },
     {
       "id": "revenue",
       "shortname": "Revenue",
       "longname": "",
-      "description": "DGC Member values increasing the revenue of the 
-Ecosystem and expanding to new revenue streams."
+      "description": "DGC Member values increasing the revenue of the Ecosystem and expanding its usecases to new revenue streams."
     },
     {
       "id": "risk",
       "shortname": "Risk",
       "longname": "",
-      "description": "DGC Member values appropriate management of risks 
-for the Ecosystem and Dijets."
+      "description": "DGC Member values risk management and risk analysis for Dijets."
     },
     {
       "id": "scalability",
       "shortname": "Scalability",
       "longname": "",
-      "description": "DGC Member values scalability of Dijets and its 
-Ecosystem"
+      "description": "DGC Member values scalability of Dijets and its Ecosystem"
     },
     {
       "id": "security",
       "shortname": "Security",
       "longname": "",
-      "description": "DGC Member values Dijets security when expanding and 
-changing functionality."
+      "description": "DGC Member values Dijets security when expanding and/or changing functional parameters of its protocol."
     },
     {
       "id": "simplicity",
       "shortname": "Simplicity",
       "longname": "",
-      "description": "DGC Member values simplicity and comprehensibility 
-when determining courses of action."
+      "description": "DGC Member values simplicity and comprehensibility when determining courses of action."
     },
     {
       "id": "sustainability",
       "shortname": "Sustainability",
       "longname": "",
-      "description": "DGC Member values social and environmental 
-sustainability as a direction for Dijets."
-    },
-    {
-      "id": "trust",
-      "shortname": "Trust",
-      "longname": "",
-      "description": "DGC Member values extending trust and confidence to 
-individuals working for Dijets."
+      "description": "DGC Member values social and environmental sustainability as a direction for Dijets."
     },
     {
       "id": "vision",
       "shortname": "Vision",
       "longname": "",
-      "description": "DGC Member values providing leadership, direction 
-and vision for Dijets."
+      "description": "DGC Member values providing leadership, direction and vision for Dijets."
     },
-    {
-      "id": "guidance",
-      "shortname": "Guidance",
+        {
+      "id": "institutionality",
+      "shortname": "Institution",
       "longname": "",
-      "description": "DGC Member values focus on long-term goals and helps 
-align Dijets actors."
-    }
+      "description": "DGC Member values lobbying with government institutions and organisations for ecosystem's benefit."
+    },
    ]
